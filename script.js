@@ -36,10 +36,10 @@ const quizData = [
     { id: 28, kanji: "荷物", furigana: "にもつ", options: ["行李、包裹", "礼物", "钱", "车票"], correctAnswer: "行李、包裹" },
     { id: 29, kanji: "お金", furigana: "おかね", options: ["钱", "车票", "礼物", "纸"], correctAnswer: "钱" },
     { id: 30, kanji: "切符", furigana: "きっぷ", options: ["车票", "钱", "行李", "信"], correctAnswer: "车票" },
-    { id: 31, kanji: "父", furigana: "ちち", options: ["（我的）爸爸", "（他人的）父亲", "妈妈", "哥哥"], correctAnswer: "（我的）爸爸" },
-    { id: 32, kanji: "母", furigana: "はは", options: ["（我的）妈妈", "（他人的）母亲", "爸爸", "姐姐"], correctAnswer: "（我的）妈妈" },
-    { id: 33, kanji: "お父さん", furigana: "おとうさん", options: ["（他人的）父亲", "（我的）爸爸", "妈妈", "叔叔"], correctAnswer: "（他人的）父亲" },
-    { id: 34, kanji: "お母さん", furigana: "おかあさん", options: ["（他人的）母亲", "（我的）妈妈", "爸爸", "阿姨"], correctAnswer: "（他人的）母亲" },
+    { id: 31, kanji: "父", furigana: "ちち", options: ["父亲 (对他人称呼自己的父亲时)", "爸爸 (对他人)", "哥哥", "弟弟"], correctAnswer: "父亲 (对他人称呼自己的父亲时)" },
+    { id: 32, kanji: "母", furigana: "はは", options: ["母亲 (对他人称呼自己的母亲时)", "妈妈 (对他人)", "姐姐", "妹妹"], correctAnswer: "母亲 (对他人称呼自己的母亲时)" },
+    { id: 33, kanji: "お父さん", furigana: "おとうさん", options: ["父亲 (称呼别人的父亲，或对自己爸爸的称呼)", "父亲 (谦称)", "哥哥", "老师"], correctAnswer: "父亲 (称呼别人的父亲，或对自己爸爸的称呼)" },
+    { id: 34, kanji: "お母さん", furigana: "おかあさん", options: ["母亲 (称呼别人的母亲，或对自己妈妈の称呼)", "母亲 (谦称)", "姐姐", "学生"], correctAnswer: "母亲 (称呼别人的母亲，或对自己妈妈の称呼)" },
     { id: 35, kanji: "もう", furigana: "もう", options: ["已经", "还没", "现在", "从今以后"], correctAnswer: "已经" },
     { id: 36, kanji: "まだ", furigana: "まだ", options: ["还没", "已经", "再来", "总是"], correctAnswer: "还没" }
 ];
